@@ -15,5 +15,5 @@ console.log("Hello World");
 
 ## Python
 ```Python
-print("Hell World")
+print("Hello World")
 ```

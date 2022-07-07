@@ -12,3 +12,8 @@ class HelloWorld {
 ```JavaScript
 console.log("Hello World");
 ```
+
+## Python
+```Python
+print("Hello World")
+```

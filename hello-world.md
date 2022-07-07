@@ -8,11 +8,6 @@ class HelloWorld {
 }
 ```
 
-## Python
-```Python
-print("Hello World")
-```
-
 ## JavaScript
 ```JavaScript
 console.log("Hello World");
